@@ -1,6 +1,6 @@
 # Small Office Network Design & Implementation (Cisco Packet Tracer)
 
-## 📌 Overview
+##  Overview
 This project demonstrates the design and implementation of a **small office network** using **Cisco Packet Tracer**.  
 The network was built to simulate a real-world small business environment with **segmented VLANs, inter-VLAN routing, DHCP, and static IP assignments** for critical services.  
 
@@ -8,7 +8,7 @@ The goal of the project is to showcase practical skills in **network design, con
 
 ---
 
-## 🖥️ Network Features
+## Network Features
 - **Multi-VLAN Architecture**  
   - VLAN 10: Admin  
   - VLAN 20: Sales  
@@ -37,7 +37,7 @@ The goal of the project is to showcase practical skills in **network design, con
 
 ---
 
-## 📐 IP Addressing Plan
+##  IP Addressing Plan
 
 | VLAN  | Subnet              | Gateway         | Devices              |
 |-------|----------------------|-----------------|----------------------|
@@ -51,7 +51,7 @@ The goal of the project is to showcase practical skills in **network design, con
 
 ---
 
-## ⚙️ Skills Demonstrated
+## Skills Demonstrated
 - Network Design & Planning  
 - VLAN Configuration & Trunking  
 - Router-on-a-Stick Inter-VLAN Routing  
