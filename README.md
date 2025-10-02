@@ -62,8 +62,8 @@ The goal of the project is to showcase practical skills in **network design, con
 
 ---
 
-## 📸 Topology Screenshot
-![Topology](images/topology-labeled.png)  
+## Topology Screenshot
+![Topology](-labeled.png)  images/topology
 
 ---
 
