@@ -63,7 +63,8 @@ The goal of the project is to showcase practical skills in **network design, con
 ---
 
 ## Topology Screenshot
-![Topology](-labeled.png)  images/topology
+<img width="1899" height="712" alt="Small office network" src="https://github.com/user-attachments/assets/a5d83d44-f492-4985-89a3-2401ec59aa00" />
+
 
 ---
 
@@ -71,5 +72,4 @@ The goal of the project is to showcase practical skills in **network design, con
 1. Clone the repository:  
    ```bash
 https://github.com/esthermensah/small-office-network-design.git
-```
 
