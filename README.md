@@ -70,5 +70,6 @@ The goal of the project is to showcase practical skills in **network design, con
 ## 🚀 How to Use
 1. Clone the repository:  
    ```bash
-
+https://github.com/esthermensah/small-office-network-design.git
+```
 
